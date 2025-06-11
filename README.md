@@ -8,7 +8,7 @@ Our Slack Workspace: [2024 Summer School Slack Workspace](https://astrostatisti-
 
 See [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
 
-![Plot](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm#/media/File:KNN_decision_surface_animation.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/e/e7/KNN_decision_surface_animation.gif)
 
 ## Getting Started
 
