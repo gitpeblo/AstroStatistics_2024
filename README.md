@@ -8,8 +8,6 @@ Our Slack Workspace: [2024 Summer School Slack Workspace](https://astrostatisti-
 
 See [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
 
-![](https://upload.wikimedia.org/wikipedia/commons/e/e7/KNN_decision_surface_animation.gif)
-
 ## Getting Started
 
 The school material is a collection of Jupyter notebooks, organized in one
