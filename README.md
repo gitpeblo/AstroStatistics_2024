@@ -4,6 +4,10 @@ Notebooks from the teaching sessions and the workshops of the
 [2024 Summer School for Astrostatistics in Crete](https://astro.physics.uoc.gr/Conferences/Astrostatistics_School_Crete_2024/).
 Our Slack Workspace: [2024 Summer School Slack Workspace](https://astrostatisti-jhf5657.slack.com).
 
+## My Contributions
+
+See [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
+
 ## Getting Started
 
 The school material is a collection of Jupyter notebooks, organized in one
